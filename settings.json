@@ -1,0 +1,12 @@
+{
+  "defaultProvider": "deepseek",
+  "defaultModel": "deepseek-v4-pro",
+  "defaultThinkingLevel": "high",
+  "theme": "catppuccin-mocha-blue",
+  "fullscreenExitOutput": "resume-hint",
+  "hideThinkingBlock": true,
+  "quietStartup": true,
+  "collapseChangelog": true,
+  "enableInstallTelemetry": false,
+  "lastChangelogVersion": "1.4.0"
+}
